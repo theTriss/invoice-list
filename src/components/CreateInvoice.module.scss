@@ -1,0 +1,9 @@
+@import "../variables.scss";
+
+.invoice__form {
+  margin-bottom: 2em;
+  padding: 1em;
+  border: 1px solid $base-border-color;
+  font: 1em $base-font;
+  background: #fff;
+}

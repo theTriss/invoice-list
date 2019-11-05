@@ -1,0 +1,12 @@
+@import "../variables.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 1em;
+  background: $base-background;
+}
